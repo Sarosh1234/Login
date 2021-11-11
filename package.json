@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "0.1.0",
+  "description": "Template express web server with sqlite3 database",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "database",
+    "fullstack",
+    "sqlite3",
+    "login"
+  ],
+  "author": "John Word",
+  "license": "ISC"
+}
