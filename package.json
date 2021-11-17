@@ -4,6 +4,7 @@
   "description": "Template express web server with sqlite3 database",
   "main": "server.js",
   "dependencies": {
+    "better-sqlite3": "^7.4.4",
     "express": "^4.17.1"
   },
   "devDependencies": {},
